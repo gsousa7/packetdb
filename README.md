@@ -11,6 +11,7 @@ A ferramenta seria absolutamente costumizavel (se o cliente quiser adicionar um 
 ## Password Management
 O core seria adicionar 8 campos, Titulo, IP, FQDN, Utilizador, Password, URL, Descrição e Tags. Esta solução seria feita em Folder Tree com as devidas pastas e um espaço reservado ao utilizador para colocar as suas credenciais de sites e/ou utilizadores de servidor. A configuração das entradas será herdada pela pasta. E um quicksearch para faciliatar. Por exemplo:\
 ![alt text](pwd.png "Password Management Scratch")\
+
 Legenda:
 1 – Butões para editar as pastas (eliminar, criar, etc.)\
 2 – Onde se pode ver as pastas, e ao clicar vai aparecer as entradas no 3\
