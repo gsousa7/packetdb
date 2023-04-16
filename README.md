@@ -1,6 +1,6 @@
 # Introdução
 Este documento tem como objetivo detalhar a ideia de Gonçalo Sousa em centralizar uma ferramenta de ticketing, configuration management database (CMDB) e password management\
-PacketDB – PAssword ticKET cmDB – Nome ainda em pensamento\
+PacketDB – PAssword ticKET cmDB – Nome ainda em pensamento
 
 # Objectivo
 
